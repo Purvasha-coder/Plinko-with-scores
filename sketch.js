@@ -62,7 +62,7 @@ function draw() {
   if ( gameState =="end") {
     
     textSize(100);
-    text("GameOver", 150, 250);
+    text("Game Over", 150, 250);
     //return
   }
 
